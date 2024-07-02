@@ -7,6 +7,7 @@ index:
 - do-you-involve-cross-checks-in-your-procedures
 - do-you-tie-knowledge-to-the-role
 - do-you-have-monthly-accounting-meetings
+- compliance-sheet
 - report-gas-in-the-tank
 - manage-travel-in-centralized-systems
 - do-you-know-how-to-claim-expense-reimbursements
@@ -26,11 +27,13 @@ index:
 - pay-invoices-completely
 - how-to-enter-a-xero-me-receipt
 - do-you-use-a-mobile-app-to-check-your-personal-payroll
+- show-long-service-leave-on-your-payslip
 - salary-sacrifice-electronic-devices
 - salary-sacrifice-novated-lease
 - salary-terminology
 - do-you-calculate-payroll-tax-correctly
 - do-you-check-your-customers-organisation-age-for-prepaid
 - do-you-treat-freebies-as-real-customers
+- show-certification-award
 ---
 
